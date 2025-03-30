@@ -1,7 +1,7 @@
 # French Cities Game
 
 ## Overview
-The Cities Game is an interactive application that challenges players to identify cities based on their geographical coordinates. Players are presented with a target city and must click on the correct location on a map to score points. The game tracks correct and incorrect answers, providing feedback and updating the score accordingly.
+The Cities Game is an interactive application that challenges players to identify french cities based on their geographical coordinates. Players are presented with a target city and must click on the correct location on a map to score points. The game tracks correct and incorrect answers, providing feedback and updating the score accordingly.
 
 ## Files
 - `src/FRENCH_CITIES_GAME.py`: Contains the main application code for the Cities Game, including the `City` class and the game logic within the `Application` class.
